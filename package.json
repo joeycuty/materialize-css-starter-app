@@ -24,7 +24,7 @@
     "rxjs": "^6.0.0",
     "zone.js": "~0.8.26",
     "angular2-materialize": "^6.3.0",
-    "jquery": "^2.2.4",
+    "jquery": ">=3.0.0",
     "materialize-css": "^0.97.8",
     "ts-helpers": "^1.1.1"
   },
